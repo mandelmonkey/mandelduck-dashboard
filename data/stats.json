@@ -1,0 +1,850 @@
+{
+  "updated_at": "2026-11-17T12:00:00Z",
+  "example": true,
+  "platforms": {
+    "x": {
+      "followers": 360,
+      "followers_change_7d": 20,
+      "views_28d": 6000,
+      "engagement_28d": 600
+    },
+    "instagram": {
+      "followers": 560,
+      "followers_change_7d": 20,
+      "views_28d": 12000,
+      "engagement_28d": 1200
+    },
+    "youtube": {
+      "followers": 920,
+      "followers_change_7d": 30,
+      "views_28d": 22000,
+      "engagement_28d": 2200
+    },
+    "tiktok": {
+      "followers": 980,
+      "followers_change_7d": 70,
+      "views_28d": 46000,
+      "engagement_28d": 4600
+    }
+  },
+  "posts": [
+    {
+      "platform": "tiktok",
+      "id": "example-tt-mystery-a",
+      "title": "Example: mystery clip A",
+      "url": "https://example.com/mandelduck/example-tt-mystery-a",
+      "published_at": "2026-11-16T18:00:00Z",
+      "series": "my-wife-is-a-mystery",
+      "views": 15000,
+      "likes": 1800,
+      "comments": 150,
+      "shares": 450
+    },
+    {
+      "platform": "x",
+      "id": "example-x-other-a",
+      "title": "Example: other clip A",
+      "url": "https://example.com/mandelduck/example-x-other-a",
+      "published_at": "2026-11-15T09:00:00Z",
+      "series": "other",
+      "views": 2000,
+      "likes": 100,
+      "comments": 20,
+      "shares": 40
+    },
+    {
+      "platform": "instagram",
+      "id": "example-ig-office-a",
+      "title": "Example: office clip A",
+      "url": "https://example.com/mandelduck/example-ig-office-a",
+      "published_at": "2026-11-14T12:00:00Z",
+      "series": "office",
+      "views": 4000,
+      "likes": 280,
+      "comments": 40,
+      "shares": 80
+    },
+    {
+      "platform": "youtube",
+      "id": "example-yt-history-a",
+      "title": "Example: history clip A",
+      "url": "https://example.com/mandelduck/example-yt-history-a",
+      "published_at": "2026-11-12T15:00:00Z",
+      "series": "history",
+      "views": 8000,
+      "likes": 640,
+      "comments": 80,
+      "shares": 160
+    },
+    {
+      "platform": "tiktok",
+      "id": "example-tt-history-a",
+      "title": "Example: history clip B",
+      "url": "https://example.com/mandelduck/example-tt-history-a",
+      "published_at": "2026-11-08T12:00:00Z",
+      "series": "history",
+      "views": 11000,
+      "likes": 800,
+      "comments": 70,
+      "shares": 200
+    },
+    {
+      "platform": "x",
+      "id": "example-x-other-b",
+      "title": "Example: other clip B",
+      "url": "https://example.com/mandelduck/example-x-other-b",
+      "published_at": "2026-11-06T09:00:00Z",
+      "series": "other",
+      "views": 1500,
+      "likes": 90,
+      "comments": 10,
+      "shares": 30
+    },
+    {
+      "platform": "x",
+      "id": "example-x-history-a",
+      "title": "Example: history clip C",
+      "url": "https://example.com/mandelduck/example-x-history-a",
+      "published_at": "2026-11-04T09:00:00Z",
+      "series": "history",
+      "views": 800,
+      "likes": 40,
+      "comments": 10,
+      "shares": 10
+    },
+    {
+      "platform": "tiktok",
+      "id": "example-tt-mystery-b",
+      "title": "Example: mystery clip B",
+      "url": "https://example.com/mandelduck/example-tt-mystery-b",
+      "published_at": "2026-11-02T18:00:00Z",
+      "series": "my-wife-is-a-mystery",
+      "views": 9000,
+      "likes": 700,
+      "comments": 60,
+      "shares": 140
+    },
+    {
+      "platform": "youtube",
+      "id": "example-yt-history-b",
+      "title": "Example: history clip D",
+      "url": "https://example.com/mandelduck/example-yt-history-b",
+      "published_at": "2026-10-30T15:00:00Z",
+      "series": "history",
+      "views": 20000,
+      "likes": 400,
+      "comments": 40,
+      "shares": 60
+    },
+    {
+      "platform": "instagram",
+      "id": "example-ig-mystery-a",
+      "title": "Example: mystery clip C",
+      "url": "https://example.com/mandelduck/example-ig-mystery-a",
+      "published_at": "2026-10-28T12:00:00Z",
+      "series": "my-wife-is-a-mystery",
+      "views": 3500,
+      "likes": 260,
+      "comments": 30,
+      "shares": 50
+    },
+    {
+      "platform": "instagram",
+      "id": "example-ig-office-b",
+      "title": "Example: office clip B",
+      "url": "https://example.com/mandelduck/example-ig-office-b",
+      "published_at": "2026-10-24T12:00:00Z",
+      "series": "office",
+      "views": 2500,
+      "likes": 100,
+      "comments": 10,
+      "shares": 20
+    },
+    {
+      "platform": "youtube",
+      "id": "example-yt-office-a",
+      "title": "Example: office clip C",
+      "url": "https://example.com/mandelduck/example-yt-office-a",
+      "published_at": "2026-10-22T15:00:00Z",
+      "series": "office",
+      "views": 3000,
+      "likes": 120,
+      "comments": 20,
+      "shares": 20
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-21",
+      "platform": "x",
+      "followers": 300,
+      "views": 200
+    },
+    {
+      "date": "2026-10-21",
+      "platform": "instagram",
+      "followers": 500,
+      "views": 400
+    },
+    {
+      "date": "2026-10-21",
+      "platform": "youtube",
+      "followers": 800,
+      "views": 700
+    },
+    {
+      "date": "2026-10-21",
+      "platform": "tiktok",
+      "followers": 700,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-22",
+      "platform": "x",
+      "followers": 300,
+      "views": 200
+    },
+    {
+      "date": "2026-10-22",
+      "platform": "instagram",
+      "followers": 500,
+      "views": 400
+    },
+    {
+      "date": "2026-10-22",
+      "platform": "youtube",
+      "followers": 800,
+      "views": 700
+    },
+    {
+      "date": "2026-10-22",
+      "platform": "tiktok",
+      "followers": 710,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "x",
+      "followers": 300,
+      "views": 200
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "instagram",
+      "followers": 500,
+      "views": 400
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "youtube",
+      "followers": 810,
+      "views": 700
+    },
+    {
+      "date": "2026-10-23",
+      "platform": "tiktok",
+      "followers": 720,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-24",
+      "platform": "x",
+      "followers": 310,
+      "views": 250
+    },
+    {
+      "date": "2026-10-24",
+      "platform": "instagram",
+      "followers": 510,
+      "views": 500
+    },
+    {
+      "date": "2026-10-24",
+      "platform": "youtube",
+      "followers": 810,
+      "views": 1000
+    },
+    {
+      "date": "2026-10-24",
+      "platform": "tiktok",
+      "followers": 730,
+      "views": 2000
+    },
+    {
+      "date": "2026-10-25",
+      "platform": "x",
+      "followers": 310,
+      "views": 250
+    },
+    {
+      "date": "2026-10-25",
+      "platform": "instagram",
+      "followers": 510,
+      "views": 500
+    },
+    {
+      "date": "2026-10-25",
+      "platform": "youtube",
+      "followers": 820,
+      "views": 1000
+    },
+    {
+      "date": "2026-10-25",
+      "platform": "tiktok",
+      "followers": 740,
+      "views": 2000
+    },
+    {
+      "date": "2026-10-26",
+      "platform": "x",
+      "followers": 310,
+      "views": 200
+    },
+    {
+      "date": "2026-10-26",
+      "platform": "instagram",
+      "followers": 510,
+      "views": 400
+    },
+    {
+      "date": "2026-10-26",
+      "platform": "youtube",
+      "followers": 820,
+      "views": 700
+    },
+    {
+      "date": "2026-10-26",
+      "platform": "tiktok",
+      "followers": 750,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-27",
+      "platform": "x",
+      "followers": 310,
+      "views": 200
+    },
+    {
+      "date": "2026-10-27",
+      "platform": "instagram",
+      "followers": 510,
+      "views": 400
+    },
+    {
+      "date": "2026-10-27",
+      "platform": "youtube",
+      "followers": 830,
+      "views": 700
+    },
+    {
+      "date": "2026-10-27",
+      "platform": "tiktok",
+      "followers": 760,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-28",
+      "platform": "x",
+      "followers": 320,
+      "views": 200
+    },
+    {
+      "date": "2026-10-28",
+      "platform": "instagram",
+      "followers": 520,
+      "views": 400
+    },
+    {
+      "date": "2026-10-28",
+      "platform": "youtube",
+      "followers": 830,
+      "views": 700
+    },
+    {
+      "date": "2026-10-28",
+      "platform": "tiktok",
+      "followers": 770,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-29",
+      "platform": "x",
+      "followers": 320,
+      "views": 200
+    },
+    {
+      "date": "2026-10-29",
+      "platform": "instagram",
+      "followers": 520,
+      "views": 400
+    },
+    {
+      "date": "2026-10-29",
+      "platform": "youtube",
+      "followers": 840,
+      "views": 700
+    },
+    {
+      "date": "2026-10-29",
+      "platform": "tiktok",
+      "followers": 780,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-30",
+      "platform": "x",
+      "followers": 320,
+      "views": 200
+    },
+    {
+      "date": "2026-10-30",
+      "platform": "instagram",
+      "followers": 520,
+      "views": 400
+    },
+    {
+      "date": "2026-10-30",
+      "platform": "youtube",
+      "followers": 840,
+      "views": 700
+    },
+    {
+      "date": "2026-10-30",
+      "platform": "tiktok",
+      "followers": 790,
+      "views": 1500
+    },
+    {
+      "date": "2026-10-31",
+      "platform": "x",
+      "followers": 320,
+      "views": 250
+    },
+    {
+      "date": "2026-10-31",
+      "platform": "instagram",
+      "followers": 520,
+      "views": 500
+    },
+    {
+      "date": "2026-10-31",
+      "platform": "youtube",
+      "followers": 840,
+      "views": 1000
+    },
+    {
+      "date": "2026-10-31",
+      "platform": "tiktok",
+      "followers": 800,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-01",
+      "platform": "x",
+      "followers": 320,
+      "views": 250
+    },
+    {
+      "date": "2026-11-01",
+      "platform": "instagram",
+      "followers": 520,
+      "views": 500
+    },
+    {
+      "date": "2026-11-01",
+      "platform": "youtube",
+      "followers": 850,
+      "views": 1000
+    },
+    {
+      "date": "2026-11-01",
+      "platform": "tiktok",
+      "followers": 810,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-02",
+      "platform": "x",
+      "followers": 330,
+      "views": 200
+    },
+    {
+      "date": "2026-11-02",
+      "platform": "instagram",
+      "followers": 530,
+      "views": 400
+    },
+    {
+      "date": "2026-11-02",
+      "platform": "youtube",
+      "followers": 850,
+      "views": 700
+    },
+    {
+      "date": "2026-11-02",
+      "platform": "tiktok",
+      "followers": 820,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-03",
+      "platform": "x",
+      "followers": 330,
+      "views": 200
+    },
+    {
+      "date": "2026-11-03",
+      "platform": "instagram",
+      "followers": 530,
+      "views": 400
+    },
+    {
+      "date": "2026-11-03",
+      "platform": "youtube",
+      "followers": 860,
+      "views": 700
+    },
+    {
+      "date": "2026-11-03",
+      "platform": "tiktok",
+      "followers": 830,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-04",
+      "platform": "x",
+      "followers": 330,
+      "views": 200
+    },
+    {
+      "date": "2026-11-04",
+      "platform": "instagram",
+      "followers": 530,
+      "views": 400
+    },
+    {
+      "date": "2026-11-04",
+      "platform": "youtube",
+      "followers": 860,
+      "views": 700
+    },
+    {
+      "date": "2026-11-04",
+      "platform": "tiktok",
+      "followers": 850,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-05",
+      "platform": "x",
+      "followers": 330,
+      "views": 200
+    },
+    {
+      "date": "2026-11-05",
+      "platform": "instagram",
+      "followers": 530,
+      "views": 400
+    },
+    {
+      "date": "2026-11-05",
+      "platform": "youtube",
+      "followers": 870,
+      "views": 700
+    },
+    {
+      "date": "2026-11-05",
+      "platform": "tiktok",
+      "followers": 860,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-06",
+      "platform": "x",
+      "followers": 340,
+      "views": 200
+    },
+    {
+      "date": "2026-11-06",
+      "platform": "instagram",
+      "followers": 540,
+      "views": 400
+    },
+    {
+      "date": "2026-11-06",
+      "platform": "youtube",
+      "followers": 870,
+      "views": 700
+    },
+    {
+      "date": "2026-11-06",
+      "platform": "tiktok",
+      "followers": 870,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "x",
+      "followers": 340,
+      "views": 250
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "instagram",
+      "followers": 540,
+      "views": 500
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "youtube",
+      "followers": 880,
+      "views": 1000
+    },
+    {
+      "date": "2026-11-07",
+      "platform": "tiktok",
+      "followers": 880,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-08",
+      "platform": "x",
+      "followers": 340,
+      "views": 250
+    },
+    {
+      "date": "2026-11-08",
+      "platform": "instagram",
+      "followers": 540,
+      "views": 500
+    },
+    {
+      "date": "2026-11-08",
+      "platform": "youtube",
+      "followers": 880,
+      "views": 1000
+    },
+    {
+      "date": "2026-11-08",
+      "platform": "tiktok",
+      "followers": 890,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-09",
+      "platform": "x",
+      "followers": 340,
+      "views": 200
+    },
+    {
+      "date": "2026-11-09",
+      "platform": "instagram",
+      "followers": 540,
+      "views": 400
+    },
+    {
+      "date": "2026-11-09",
+      "platform": "youtube",
+      "followers": 880,
+      "views": 700
+    },
+    {
+      "date": "2026-11-09",
+      "platform": "tiktok",
+      "followers": 900,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-10",
+      "platform": "x",
+      "followers": 340,
+      "views": 200
+    },
+    {
+      "date": "2026-11-10",
+      "platform": "instagram",
+      "followers": 540,
+      "views": 400
+    },
+    {
+      "date": "2026-11-10",
+      "platform": "youtube",
+      "followers": 890,
+      "views": 700
+    },
+    {
+      "date": "2026-11-10",
+      "platform": "tiktok",
+      "followers": 910,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-11",
+      "platform": "x",
+      "followers": 350,
+      "views": 200
+    },
+    {
+      "date": "2026-11-11",
+      "platform": "instagram",
+      "followers": 550,
+      "views": 400
+    },
+    {
+      "date": "2026-11-11",
+      "platform": "youtube",
+      "followers": 890,
+      "views": 700
+    },
+    {
+      "date": "2026-11-11",
+      "platform": "tiktok",
+      "followers": 920,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-12",
+      "platform": "x",
+      "followers": 350,
+      "views": 200
+    },
+    {
+      "date": "2026-11-12",
+      "platform": "instagram",
+      "followers": 550,
+      "views": 400
+    },
+    {
+      "date": "2026-11-12",
+      "platform": "youtube",
+      "followers": 900,
+      "views": 700
+    },
+    {
+      "date": "2026-11-12",
+      "platform": "tiktok",
+      "followers": 930,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-13",
+      "platform": "x",
+      "followers": 350,
+      "views": 200
+    },
+    {
+      "date": "2026-11-13",
+      "platform": "instagram",
+      "followers": 550,
+      "views": 400
+    },
+    {
+      "date": "2026-11-13",
+      "platform": "youtube",
+      "followers": 900,
+      "views": 700
+    },
+    {
+      "date": "2026-11-13",
+      "platform": "tiktok",
+      "followers": 940,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-14",
+      "platform": "x",
+      "followers": 350,
+      "views": 250
+    },
+    {
+      "date": "2026-11-14",
+      "platform": "instagram",
+      "followers": 550,
+      "views": 500
+    },
+    {
+      "date": "2026-11-14",
+      "platform": "youtube",
+      "followers": 910,
+      "views": 1000
+    },
+    {
+      "date": "2026-11-14",
+      "platform": "tiktok",
+      "followers": 950,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-15",
+      "platform": "x",
+      "followers": 360,
+      "views": 250
+    },
+    {
+      "date": "2026-11-15",
+      "platform": "instagram",
+      "followers": 560,
+      "views": 500
+    },
+    {
+      "date": "2026-11-15",
+      "platform": "youtube",
+      "followers": 910,
+      "views": 1000
+    },
+    {
+      "date": "2026-11-15",
+      "platform": "tiktok",
+      "followers": 960,
+      "views": 2000
+    },
+    {
+      "date": "2026-11-16",
+      "platform": "x",
+      "followers": 360,
+      "views": 200
+    },
+    {
+      "date": "2026-11-16",
+      "platform": "instagram",
+      "followers": 560,
+      "views": 400
+    },
+    {
+      "date": "2026-11-16",
+      "platform": "youtube",
+      "followers": 920,
+      "views": 700
+    },
+    {
+      "date": "2026-11-16",
+      "platform": "tiktok",
+      "followers": 970,
+      "views": 1500
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "x",
+      "followers": 360,
+      "views": 200
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "instagram",
+      "followers": 560,
+      "views": 400
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "youtube",
+      "followers": 920,
+      "views": 700
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "tiktok",
+      "followers": 980,
+      "views": 1500
+    }
+  ]
+}

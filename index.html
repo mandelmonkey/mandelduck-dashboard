@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mandelduck Studios social analytics for X, Instagram, YouTube and TikTok.">
+  <meta name="theme-color" content="#0b1426">
+  <title>Mandelduck Studios — Social analytics</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="example-banner" class="banner" hidden role="status">Example data – real stats not connected yet</div>
+
+  <header class="site-header">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 88 64" aria-hidden="true">
+        <g transform="translate(2 8)">
+          <ellipse cx="26" cy="36" rx="16" ry="12" fill="#ffb067"/>
+          <circle cx="38" cy="24" r="10" fill="#ffb067"/>
+          <ellipse cx="47" cy="26" rx="7" ry="3.2" fill="#fff6ea"/>
+          <circle cx="41" cy="21" r="1.4" fill="#0b1426"/>
+        </g>
+        <g>
+          <ellipse cx="48" cy="42" rx="18" ry="13" fill="#ff8a2a"/>
+          <circle cx="62" cy="28" r="11" fill="#ff8a2a"/>
+          <ellipse cx="72" cy="30" rx="8" ry="3.4" fill="#fff6ea"/>
+          <circle cx="65" cy="25" r="1.6" fill="#0b1426"/>
+        </g>
+      </svg>
+      <div>
+        <p class="eyebrow">Mandelduck Studios</p>
+        <h1>Social analytics</h1>
+      </div>
+    </div>
+    <p class="updated">Last updated <time id="updated-at">…</time></p>
+  </header>
+
+  <main id="main">
+    <p id="status" class="status" role="status">Loading stats…</p>
+
+    <section aria-labelledby="accounts-heading">
+      <div class="section-head">
+        <h2 id="accounts-heading">Accounts</h2>
+        <p class="lede">Followers, how that count moved in the last 7 days, and views over 28 days.</p>
+      </div>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <section class="panel callout" aria-labelledby="best-heading">
+      <div class="section-head">
+        <h2 id="best-heading">Best performers this week</h2>
+        <p id="best-window" class="lede">Posts from the 7 days before the last update, ranked by engagement rate.</p>
+      </div>
+      <ol id="best-list" class="best-list"></ol>
+    </section>
+
+    <section aria-labelledby="trends-heading">
+      <div class="section-head">
+        <h2 id="trends-heading">Trends</h2>
+        <p class="lede">Daily follower counts and daily views from the history snapshots.</p>
+      </div>
+      <p id="chart-error" class="status error" hidden>Charts could not be loaded. Account cards and the posts table still use stats.json.</p>
+      <div class="chart-grid">
+        <article class="panel">
+          <h3>Followers</h3>
+          <div class="chart-box"><canvas id="followers-chart" aria-label="Follower trend by platform" role="img"></canvas></div>
+        </article>
+        <article class="panel">
+          <h3>Views</h3>
+          <div class="chart-box"><canvas id="views-chart" aria-label="Daily views by platform" role="img"></canvas></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="posts-heading">
+      <div class="section-head">
+        <h2 id="posts-heading">Top posts</h2>
+        <p id="post-count" class="lede"></p>
+      </div>
+      <div class="filters">
+        <label>Platform
+          <select id="filter-platform">
+            <option value="all">All platforms</option>
+            <option value="x">X</option>
+            <option value="instagram">Instagram</option>
+            <option value="youtube">YouTube</option>
+            <option value="tiktok">TikTok</option>
+          </select>
+        </label>
+        <label>Series
+          <select id="filter-series">
+            <option value="all">All series</option>
+            <option value="my-wife-is-a-mystery">My Wife Is a Mystery</option>
+            <option value="history">History</option>
+            <option value="office">Office</option>
+            <option value="other">Other</option>
+          </select>
+        </label>
+        <label>Sort
+          <select id="sort-mode">
+            <option value="views-desc">Views, high to low</option>
+            <option value="views-asc">Views, low to high</option>
+            <option value="likes-desc">Likes, high to low</option>
+            <option value="likes-asc">Likes, low to high</option>
+            <option value="engagement-desc">Engagement, high to low</option>
+            <option value="engagement-asc">Engagement, low to high</option>
+          </select>
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Post</th>
+              <th scope="col">Platform</th>
+              <th scope="col">Series</th>
+              <th scope="col">Published</th>
+              <th scope="col" aria-sort="descending"><button type="button" class="sort-btn" data-sort="views" data-label="Views">Views</button></th>
+              <th scope="col" aria-sort="none"><button type="button" class="sort-btn" data-sort="likes" data-label="Likes">Likes</button></th>
+              <th scope="col">Comments</th>
+              <th scope="col">Shares</th>
+              <th scope="col" aria-sort="none"><button type="button" class="sort-btn" data-sort="engagement" data-label="Engagement">Engagement</button></th>
+            </tr>
+          </thead>
+          <tbody id="post-rows"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Mandelduck Studios · X, Instagram, YouTube and TikTok.</p>
+    <p>Every figure on this page is read from <code>data/stats.json</code>.</p>
+  </footer>
+
+  <noscript>
+    <p class="banner">This dashboard needs JavaScript to read data/stats.json and draw the charts.</p>
+  </noscript>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
