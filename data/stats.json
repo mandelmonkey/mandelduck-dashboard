@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17T15:01:51Z",
+  "updated_at": "2026-11-17T20:22:21Z",
   "example": false,
   "platforms": {
     "x": {
-      "followers": 19468,
+      "followers": 19474,
       "followers_change_7d": null,
       "views_28d": null,
       "engagement_28d": null
@@ -15,13 +15,13 @@
       "engagement_28d": null
     },
     "youtube": {
-      "followers": 950,
+      "followers": 1000,
       "followers_change_7d": null,
       "views_28d": null,
       "engagement_28d": null
     },
     "tiktok": {
-      "followers": 2799,
+      "followers": 2813,
       "followers_change_7d": null,
       "views_28d": null,
       "engagement_28d": null
@@ -29,13 +29,37 @@
   },
   "posts": [
     {
+      "platform": "x",
+      "id": "2122775965654712787",
+      "title": "James Bond will return as.... IYKYK! https://t.co/CWmusy9IXO",
+      "url": "https://x.com/i/status/2122775965654712787",
+      "published_at": "2026-11-17T19:36:44Z",
+      "series": "other",
+      "views": 2186,
+      "likes": 13,
+      "comments": 3,
+      "shares": 1
+    },
+    {
+      "platform": "x",
+      "id": "2122743023201382630",
+      "title": "Great example of a non-AI-generated parody comedy. I bet he won't get a cease-and-desist. 😅 Maybe I just need to act ou…",
+      "url": "https://x.com/i/status/2122743023201382630",
+      "published_at": "2026-11-17T17:25:50Z",
+      "series": "office",
+      "views": 1360,
+      "likes": 8,
+      "comments": 1,
+      "shares": 2
+    },
+    {
       "platform": "tiktok",
       "id": "7709151787579903234",
       "title": "My Wife Is a Mystery! (妻は謎！) Ep 1: A Strong Connection 💘📱 An original comedy based on true stories from when I was dati…",
       "url": "https://www.tiktok.com/@mandelduck/video/7709151787579903234",
       "published_at": "2026-11-17T14:46:22Z",
       "series": "my-wife-is-a-mystery",
-      "views": 75,
+      "views": 420,
       "likes": 0,
       "comments": 0,
       "shares": 0
@@ -47,8 +71,8 @@
       "url": "https://x.com/i/status/2122701013928874120",
       "published_at": "2026-11-17T14:38:54Z",
       "series": "other",
-      "views": 295,
-      "likes": 1,
+      "views": 1144,
+      "likes": 2,
       "comments": 0,
       "shares": 0
     },
@@ -59,10 +83,10 @@
       "url": "https://x.com/i/status/2122700783850316068",
       "published_at": "2026-11-17T14:37:59Z",
       "series": "my-wife-is-a-mystery",
-      "views": 20518,
-      "likes": 4,
-      "comments": 1,
-      "shares": 0
+      "views": 309026,
+      "likes": 92,
+      "comments": 6,
+      "shares": 6
     },
     {
       "platform": "tiktok",
@@ -71,8 +95,8 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7709130532625435926",
       "published_at": "2026-11-17T13:23:56Z",
       "series": "history",
-      "views": 205,
-      "likes": 0,
+      "views": 457,
+      "likes": 6,
       "comments": 0,
       "shares": 0
     },
@@ -83,7 +107,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7709129469654568214",
       "published_at": "2026-11-17T13:19:44Z",
       "series": "history",
-      "views": 220,
+      "views": 423,
       "likes": 1,
       "comments": 0,
       "shares": 0
@@ -95,7 +119,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7709128695557934358",
       "published_at": "2026-11-17T13:16:41Z",
       "series": "history",
-      "views": 141,
+      "views": 346,
       "likes": 1,
       "comments": 0,
       "shares": 0
@@ -107,8 +131,8 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7709127600219688214",
       "published_at": "2026-11-17T13:12:30Z",
       "series": "history",
-      "views": 215,
-      "likes": 2,
+      "views": 591,
+      "likes": 4,
       "comments": 1,
       "shares": 0
     },
@@ -131,9 +155,9 @@
       "url": "https://x.com/i/status/2122654075757957190",
       "published_at": "2026-11-17T11:32:23Z",
       "series": "other",
-      "views": 1393,
-      "likes": 25,
-      "comments": 7,
+      "views": 1770,
+      "likes": 30,
+      "comments": 10,
       "shares": 3
     },
     {
@@ -143,7 +167,7 @@
       "url": "https://www.youtube.com/shorts/SpB0m8snDWo",
       "published_at": "2026-11-17T11:13:01Z",
       "series": "history",
-      "views": 209,
+      "views": 327,
       "likes": null,
       "comments": null,
       "shares": null
@@ -155,7 +179,7 @@
       "url": "https://www.youtube.com/watch?v=2B8kgjNpJa8",
       "published_at": "2026-11-17T11:11:30Z",
       "series": "history",
-      "views": 15,
+      "views": 53,
       "likes": 0,
       "comments": null,
       "shares": null
@@ -167,7 +191,7 @@
       "url": "https://www.youtube.com/shorts/5xC-JigNmbM",
       "published_at": "2026-11-17T10:48:44Z",
       "series": "history",
-      "views": 73,
+      "views": 121,
       "likes": null,
       "comments": null,
       "shares": null
@@ -179,7 +203,7 @@
       "url": "https://www.youtube.com/watch?v=rUg2YMuFa5Q",
       "published_at": "2026-11-17T10:47:53Z",
       "series": "history",
-      "views": 9,
+      "views": 22,
       "likes": null,
       "comments": null,
       "shares": null
@@ -191,7 +215,7 @@
       "url": "https://www.youtube.com/watch?v=kdkU1Ygw_v4",
       "published_at": "2026-11-17T10:03:59Z",
       "series": "my-wife-is-a-mystery",
-      "views": 17,
+      "views": 31,
       "likes": 0,
       "comments": null,
       "shares": null
@@ -203,10 +227,10 @@
       "url": "https://x.com/i/status/2122629913052143662",
       "published_at": "2026-11-17T09:56:22Z",
       "series": "other",
-      "views": 441606,
-      "likes": 71,
-      "comments": 7,
-      "shares": 2
+      "views": 1004024,
+      "likes": 162,
+      "comments": 11,
+      "shares": 13
     },
     {
       "platform": "x",
@@ -215,8 +239,8 @@
       "url": "https://x.com/i/status/2122627528947048550",
       "published_at": "2026-11-17T09:46:54Z",
       "series": "other",
-      "views": 1208,
-      "likes": 12,
+      "views": 1537,
+      "likes": 15,
       "comments": 1,
       "shares": 0
     },
@@ -227,7 +251,7 @@
       "url": "https://www.youtube.com/shorts/JxQcXxQBxGE",
       "published_at": "2026-11-17T09:44:31Z",
       "series": "history",
-      "views": 244,
+      "views": 359,
       "likes": null,
       "comments": null,
       "shares": null
@@ -239,7 +263,7 @@
       "url": "https://www.youtube.com/watch?v=xobsWNpyndo",
       "published_at": "2026-11-17T09:41:58Z",
       "series": "history",
-      "views": 8,
+      "views": 24,
       "likes": null,
       "comments": null,
       "shares": null
@@ -251,10 +275,10 @@
       "url": "https://x.com/i/status/2122621987042324578",
       "published_at": "2026-11-17T09:24:52Z",
       "series": "other",
-      "views": 3458,
-      "likes": 101,
-      "comments": 17,
-      "shares": 12
+      "views": 4493,
+      "likes": 136,
+      "comments": 21,
+      "shares": 13
     },
     {
       "platform": "x",
@@ -263,9 +287,9 @@
       "url": "https://x.com/i/status/2122616373314506754",
       "published_at": "2026-11-17T09:02:34Z",
       "series": "other",
-      "views": 1490,
-      "likes": 11,
-      "comments": 3,
+      "views": 1990,
+      "likes": 13,
+      "comments": 4,
       "shares": 0
     },
     {
@@ -275,10 +299,10 @@
       "url": "https://x.com/i/status/2122493664500822276",
       "published_at": "2026-11-17T00:54:58Z",
       "series": "office",
-      "views": 42939,
-      "likes": 499,
-      "comments": 23,
-      "shares": 31
+      "views": 49316,
+      "likes": 550,
+      "comments": 25,
+      "shares": 32
     },
     {
       "platform": "x",
@@ -287,8 +311,8 @@
       "url": "https://x.com/i/status/2122488419058073828",
       "published_at": "2026-11-17T00:34:07Z",
       "series": "other",
-      "views": 3728,
-      "likes": 53,
+      "views": 3892,
+      "likes": 54,
       "comments": 5,
       "shares": 0
     },
@@ -299,10 +323,10 @@
       "url": "https://x.com/i/status/2122475502900297786",
       "published_at": "2026-11-16T23:42:48Z",
       "series": "other",
-      "views": 55747,
-      "likes": 167,
-      "comments": 55,
-      "shares": 11
+      "views": 62333,
+      "likes": 174,
+      "comments": 56,
+      "shares": 12
     },
     {
       "platform": "x",
@@ -311,10 +335,10 @@
       "url": "https://x.com/i/status/2122462708041650230",
       "published_at": "2026-11-16T22:51:57Z",
       "series": "office",
-      "views": 176474,
-      "likes": 1901,
+      "views": 178131,
+      "likes": 1897,
       "comments": 44,
-      "shares": 163
+      "shares": 162
     },
     {
       "platform": "tiktok",
@@ -323,8 +347,8 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7708902931185159446",
       "published_at": "2026-11-16T22:40:39Z",
       "series": "office",
-      "views": 3499,
-      "likes": 135,
+      "views": 3711,
+      "likes": 138,
       "comments": 2,
       "shares": 37
     },
@@ -335,7 +359,7 @@
       "url": "https://x.com/i/status/2122457258739015781",
       "published_at": "2026-11-16T22:30:18Z",
       "series": "other",
-      "views": 3343,
+      "views": 3473,
       "likes": 43,
       "comments": 3,
       "shares": 4
@@ -347,10 +371,10 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7708771168949505302",
       "published_at": "2026-11-16T14:09:21Z",
       "series": "office",
-      "views": 13100,
-      "likes": 772,
+      "views": 13500,
+      "likes": 800,
       "comments": 22,
-      "shares": 170
+      "shares": 177
     },
     {
       "platform": "x",
@@ -359,8 +383,8 @@
       "url": "https://x.com/i/status/2122329268709474565",
       "published_at": "2026-11-16T14:01:43Z",
       "series": "office",
-      "views": 190447,
-      "likes": 3708,
+      "views": 191082,
+      "likes": 3705,
       "comments": 95,
       "shares": 391
     },
@@ -371,7 +395,7 @@
       "url": "https://x.com/i/status/2122321676184535480",
       "published_at": "2026-11-16T13:31:33Z",
       "series": "other",
-      "views": 4616,
+      "views": 4692,
       "likes": 55,
       "comments": 4,
       "shares": 2
@@ -383,7 +407,7 @@
       "url": "https://www.youtube.com/watch?v=T0dsMEB_2D8",
       "published_at": "2026-11-16T12:56:16Z",
       "series": "history",
-      "views": 180,
+      "views": 241,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -395,7 +419,7 @@
       "url": "https://x.com/i/status/2122296906550300916",
       "published_at": "2026-11-16T11:53:07Z",
       "series": "other",
-      "views": 4065,
+      "views": 4137,
       "likes": 21,
       "comments": 15,
       "shares": 0
@@ -407,7 +431,7 @@
       "url": "https://x.com/i/status/2122120441846169695",
       "published_at": "2026-11-16T00:11:55Z",
       "series": "other",
-      "views": 9267,
+      "views": 9370,
       "likes": 29,
       "comments": 5,
       "shares": 5
@@ -419,7 +443,7 @@
       "url": "https://www.youtube.com/watch?v=ftJPVPBngfE",
       "published_at": "2026-11-16T00:10:53Z",
       "series": "other",
-      "views": 139,
+      "views": 140,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -431,7 +455,7 @@
       "url": "https://x.com/i/status/2122091095995601143",
       "published_at": "2026-11-15T22:15:18Z",
       "series": "other",
-      "views": 4628,
+      "views": 4674,
       "likes": 31,
       "comments": 3,
       "shares": 0
@@ -443,7 +467,7 @@
       "url": "https://x.com/i/status/2122082406828237129",
       "published_at": "2026-11-15T21:40:46Z",
       "series": "other",
-      "views": 5622,
+      "views": 5696,
       "likes": 61,
       "comments": 2,
       "shares": 3
@@ -455,7 +479,7 @@
       "url": "https://x.com/i/status/2122073822132084841",
       "published_at": "2026-11-15T21:06:40Z",
       "series": "other",
-      "views": 81056,
+      "views": 81163,
       "likes": 2486,
       "comments": 71,
       "shares": 58
@@ -467,7 +491,7 @@
       "url": "https://x.com/i/status/2122043330246906164",
       "published_at": "2026-11-15T19:05:30Z",
       "series": "other",
-      "views": 4307,
+      "views": 4345,
       "likes": 24,
       "comments": 0,
       "shares": 1
@@ -479,7 +503,7 @@
       "url": "https://x.com/i/status/2122017033701200221",
       "published_at": "2026-11-15T17:21:00Z",
       "series": "other",
-      "views": 6943,
+      "views": 6997,
       "likes": 14,
       "comments": 1,
       "shares": 1
@@ -491,7 +515,7 @@
       "url": "https://x.com/i/status/2121975650667934202",
       "published_at": "2026-11-15T14:36:34Z",
       "series": "other",
-      "views": 10408,
+      "views": 10456,
       "likes": 151,
       "comments": 16,
       "shares": 9
@@ -503,7 +527,7 @@
       "url": "https://x.com/i/status/2121679588606501168",
       "published_at": "2026-11-14T19:00:07Z",
       "series": "other",
-      "views": 11018,
+      "views": 11047,
       "likes": 76,
       "comments": 11,
       "shares": 0
@@ -515,7 +539,7 @@
       "url": "https://x.com/i/status/2121656977323336060",
       "published_at": "2026-11-14T17:30:16Z",
       "series": "office",
-      "views": 318173,
+      "views": 318275,
       "likes": 1516,
       "comments": 39,
       "shares": 128
@@ -527,7 +551,7 @@
       "url": "https://x.com/i/status/2121598856005570824",
       "published_at": "2026-11-14T13:39:19Z",
       "series": "other",
-      "views": 13589,
+      "views": 13616,
       "likes": 63,
       "comments": 9,
       "shares": 3
@@ -539,10 +563,10 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7707802608253308183",
       "published_at": "2026-11-13T23:30:54Z",
       "series": "office",
-      "views": 160400,
-      "likes": 12100,
-      "comments": 133,
-      "shares": 3472
+      "views": 162300,
+      "likes": 12300,
+      "comments": 135,
+      "shares": 3528
     },
     {
       "platform": "x",
@@ -551,10 +575,10 @@
       "url": "https://x.com/i/status/2121380864424657361",
       "published_at": "2026-11-13T23:13:06Z",
       "series": "office",
-      "views": 1139751,
-      "likes": 9425,
+      "views": 1140348,
+      "likes": 9419,
       "comments": 102,
-      "shares": 1020
+      "shares": 1018
     },
     {
       "platform": "x",
@@ -563,7 +587,7 @@
       "url": "https://x.com/i/status/2121347157454364950",
       "published_at": "2026-11-13T20:59:09Z",
       "series": "other",
-      "views": 15176,
+      "views": 15199,
       "likes": 203,
       "comments": 12,
       "shares": 2
@@ -575,7 +599,7 @@
       "url": "https://x.com/i/status/2121314044082524592",
       "published_at": "2026-11-13T18:47:34Z",
       "series": "other",
-      "views": 14087,
+      "views": 14111,
       "likes": 47,
       "comments": 5,
       "shares": 0
@@ -587,7 +611,7 @@
       "url": "https://x.com/i/status/2121271975196692739",
       "published_at": "2026-11-13T16:00:24Z",
       "series": "other",
-      "views": 28089,
+      "views": 28113,
       "likes": 245,
       "comments": 17,
       "shares": 13
@@ -599,7 +623,7 @@
       "url": "https://x.com/i/status/2121261894053019715",
       "published_at": "2026-11-13T15:20:21Z",
       "series": "other",
-      "views": 19315,
+      "views": 19339,
       "likes": 97,
       "comments": 5,
       "shares": 9
@@ -612,9 +636,9 @@
       "published_at": "2026-11-13T11:22:39Z",
       "series": "office",
       "views": 1100000,
-      "likes": 87000,
-      "comments": 343,
-      "shares": 34200
+      "likes": 87100,
+      "comments": 342,
+      "shares": 34300
     },
     {
       "platform": "x",
@@ -623,8 +647,8 @@
       "url": "https://x.com/i/status/2121201433554890770",
       "published_at": "2026-11-13T11:20:06Z",
       "series": "office",
-      "views": 3601194,
-      "likes": 32262,
+      "views": 3602459,
+      "likes": 32252,
       "comments": 347,
       "shares": 4170
     },
@@ -635,7 +659,7 @@
       "url": "https://x.com/i/status/2120983989242515931",
       "published_at": "2026-11-12T20:56:03Z",
       "series": "other",
-      "views": 28342,
+      "views": 28377,
       "likes": 99,
       "comments": 7,
       "shares": 6
@@ -647,7 +671,7 @@
       "url": "https://www.youtube.com/watch?v=PFCkT2qzbR8",
       "published_at": "2026-11-12T19:58:07Z",
       "series": "office",
-      "views": 163,
+      "views": 201,
       "likes": 6,
       "comments": null,
       "shares": null
@@ -659,7 +683,7 @@
       "url": "https://www.youtube.com/watch?v=FcqYMHn52YM",
       "published_at": "2026-11-12T19:56:48Z",
       "series": "other",
-      "views": 34,
+      "views": 35,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -671,7 +695,7 @@
       "url": "https://www.youtube.com/watch?v=VFfsZ3dUiTk",
       "published_at": "2026-11-12T19:54:39Z",
       "series": "office",
-      "views": 63,
+      "views": 78,
       "likes": null,
       "comments": null,
       "shares": null
@@ -683,7 +707,7 @@
       "url": "https://www.youtube.com/watch?v=MuMtljmmhZQ",
       "published_at": "2026-11-12T19:54:28Z",
       "series": "office",
-      "views": 106,
+      "views": 109,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -695,7 +719,7 @@
       "url": "https://www.youtube.com/watch?v=EU8Uhne-ZGE",
       "published_at": "2026-11-12T19:53:19Z",
       "series": "other",
-      "views": 159,
+      "views": 223,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -707,7 +731,7 @@
       "url": "https://www.youtube.com/watch?v=DEVFXI4XrrM",
       "published_at": "2026-11-12T19:53:03Z",
       "series": "office",
-      "views": 27000,
+      "views": 79000,
       "likes": 401,
       "comments": null,
       "shares": null
@@ -719,7 +743,7 @@
       "url": "https://www.youtube.com/watch?v=1Mza9g41I2Y",
       "published_at": "2026-11-12T19:52:30Z",
       "series": "office",
-      "views": 204,
+      "views": 487,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -731,7 +755,7 @@
       "url": "https://x.com/i/status/2120967433427046777",
       "published_at": "2026-11-12T19:50:16Z",
       "series": "other",
-      "views": 13164,
+      "views": 13177,
       "likes": 31,
       "comments": 4,
       "shares": 2
@@ -743,7 +767,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7707329692939865366",
       "published_at": "2026-11-12T16:55:37Z",
       "series": "office",
-      "views": 935300,
+      "views": 936100,
       "likes": 72900,
       "comments": 623,
       "shares": 38900
@@ -755,8 +779,8 @@
       "url": "https://x.com/i/status/2120914062473155009",
       "published_at": "2026-11-12T16:18:11Z",
       "series": "office",
-      "views": 8031999,
-      "likes": 14200,
+      "views": 8036272,
+      "likes": 14199,
       "comments": 320,
       "shares": 1950
     },
@@ -767,7 +791,7 @@
       "url": "https://x.com/i/status/2120859271340380353",
       "published_at": "2026-11-12T12:40:28Z",
       "series": "other",
-      "views": 12015,
+      "views": 12027,
       "likes": 9,
       "comments": 3,
       "shares": 0
@@ -779,7 +803,7 @@
       "url": "https://x.com/i/status/2120835262339269024",
       "published_at": "2026-11-12T11:05:04Z",
       "series": "other",
-      "views": 15140,
+      "views": 15153,
       "likes": 52,
       "comments": 0,
       "shares": 3
@@ -791,7 +815,7 @@
       "url": "https://x.com/i/status/2120830279052898722",
       "published_at": "2026-11-12T10:45:16Z",
       "series": "other",
-      "views": 10425,
+      "views": 10437,
       "likes": 71,
       "comments": 4,
       "shares": 7
@@ -803,7 +827,7 @@
       "url": "https://x.com/i/status/2120588772761010335",
       "published_at": "2026-11-11T18:45:36Z",
       "series": "other",
-      "views": 94553,
+      "views": 94565,
       "likes": 75,
       "comments": 4,
       "shares": 4
@@ -815,8 +839,8 @@
       "url": "https://x.com/i/status/2120578339228496107",
       "published_at": "2026-11-11T18:04:09Z",
       "series": "office",
-      "views": 97714,
-      "likes": 727,
+      "views": 97860,
+      "likes": 728,
       "comments": 16,
       "shares": 68
     },
@@ -827,7 +851,7 @@
       "url": "https://x.com/i/status/2120499629179470283",
       "published_at": "2026-11-11T12:51:23Z",
       "series": "other",
-      "views": 6580,
+      "views": 6586,
       "likes": 4,
       "comments": 4,
       "shares": 0
@@ -839,7 +863,7 @@
       "url": "https://x.com/i/status/2120487554831274350",
       "published_at": "2026-11-11T12:03:24Z",
       "series": "other",
-      "views": 6342,
+      "views": 6348,
       "likes": 53,
       "comments": 2,
       "shares": 1
@@ -851,7 +875,7 @@
       "url": "https://x.com/i/status/2120440576776560857",
       "published_at": "2026-11-11T08:56:44Z",
       "series": "other",
-      "views": 5855,
+      "views": 5859,
       "likes": 8,
       "comments": 1,
       "shares": 2
@@ -863,7 +887,7 @@
       "url": "https://x.com/i/status/2120408460722315708",
       "published_at": "2026-11-11T06:49:06Z",
       "series": "other",
-      "views": 8014,
+      "views": 8022,
       "likes": 5,
       "comments": 1,
       "shares": 1
@@ -875,7 +899,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7706297356966268182",
       "published_at": "2026-11-09T22:09:42Z",
       "series": "office",
-      "views": 5456,
+      "views": 5482,
       "likes": 169,
       "comments": 9,
       "shares": 66
@@ -887,9 +911,9 @@
       "url": "https://x.com/i/status/2119914698678165720",
       "published_at": "2026-11-09T22:07:04Z",
       "series": "office",
-      "views": 3013682,
-      "likes": 6391,
-      "comments": 200,
+      "views": 3014462,
+      "likes": 6393,
+      "comments": 201,
       "shares": 781
     },
     {
@@ -899,7 +923,7 @@
       "url": "https://x.com/i/status/2119906265967341578",
       "published_at": "2026-11-09T21:33:34Z",
       "series": "other",
-      "views": 7675,
+      "views": 7682,
       "likes": 30,
       "comments": 3,
       "shares": 2
@@ -911,7 +935,7 @@
       "url": "https://x.com/i/status/2119807744714895687",
       "published_at": "2026-11-09T15:02:05Z",
       "series": "other",
-      "views": 6697,
+      "views": 6702,
       "likes": 6,
       "comments": 2,
       "shares": 0
@@ -923,10 +947,10 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7706176665306598658",
       "published_at": "2026-11-09T14:21:19Z",
       "series": "office",
-      "views": 19900,
-      "likes": 1136,
+      "views": 20100,
+      "likes": 1148,
       "comments": 19,
-      "shares": 156
+      "shares": 159
     },
     {
       "platform": "x",
@@ -935,10 +959,10 @@
       "url": "https://x.com/i/status/2119795235475599527",
       "published_at": "2026-11-09T14:12:22Z",
       "series": "office",
-      "views": 431239,
-      "likes": 3303,
+      "views": 432002,
+      "likes": 3312,
       "comments": 101,
-      "shares": 419
+      "shares": 420
     },
     {
       "platform": "x",
@@ -947,7 +971,7 @@
       "url": "https://x.com/i/status/2119764303582539805",
       "published_at": "2026-11-09T12:09:27Z",
       "series": "other",
-      "views": 6386,
+      "views": 6390,
       "likes": 35,
       "comments": 2,
       "shares": 2
@@ -959,7 +983,7 @@
       "url": "https://x.com/i/status/2119746370844385492",
       "published_at": "2026-11-09T10:58:12Z",
       "series": "other",
-      "views": 11728,
+      "views": 11736,
       "likes": 54,
       "comments": 10,
       "shares": 0
@@ -971,7 +995,7 @@
       "url": "https://www.youtube.com/shorts/RbhMX7PuZgQ",
       "published_at": "2026-11-09T00:00:00Z",
       "series": "office",
-      "views": 2000,
+      "views": 2100,
       "likes": 26,
       "comments": null,
       "shares": null
@@ -983,7 +1007,7 @@
       "url": "https://x.com/i/status/2119397947951493142",
       "published_at": "2026-11-08T11:53:41Z",
       "series": "other",
-      "views": 5356,
+      "views": 5360,
       "likes": 11,
       "comments": 2,
       "shares": 1
@@ -995,7 +1019,7 @@
       "url": "https://x.com/i/status/2119393118164328517",
       "published_at": "2026-11-08T11:34:30Z",
       "series": "office",
-      "views": 5420,
+      "views": 5425,
       "likes": 36,
       "comments": 1,
       "shares": 1
@@ -1007,7 +1031,7 @@
       "url": "https://x.com/i/status/2119193768381607955",
       "published_at": "2026-11-07T22:22:21Z",
       "series": "other",
-      "views": 100292,
+      "views": 100300,
       "likes": 62,
       "comments": 2,
       "shares": 9
@@ -1019,7 +1043,7 @@
       "url": "https://x.com/i/status/2119145386984321121",
       "published_at": "2026-11-07T19:10:06Z",
       "series": "other",
-      "views": 5050,
+      "views": 5053,
       "likes": 27,
       "comments": 7,
       "shares": 0
@@ -1031,7 +1055,7 @@
       "url": "https://x.com/i/status/2119140389361729785",
       "published_at": "2026-11-07T18:50:15Z",
       "series": "office",
-      "views": 5654,
+      "views": 5657,
       "likes": 48,
       "comments": 6,
       "shares": 1
@@ -1043,7 +1067,7 @@
       "url": "https://x.com/i/status/2119118153607532981",
       "published_at": "2026-11-07T17:21:53Z",
       "series": "other",
-      "views": 7711,
+      "views": 7718,
       "likes": 30,
       "comments": 6,
       "shares": 6
@@ -1055,7 +1079,7 @@
       "url": "https://x.com/i/status/2119042077459693987",
       "published_at": "2026-11-07T12:19:35Z",
       "series": "office",
-      "views": 4883,
+      "views": 4885,
       "likes": 28,
       "comments": 0,
       "shares": 0
@@ -1067,7 +1091,7 @@
       "url": "https://x.com/i/status/2118837476592623882",
       "published_at": "2026-11-06T22:46:35Z",
       "series": "office",
-      "views": 4171,
+      "views": 4173,
       "likes": 54,
       "comments": 2,
       "shares": 1
@@ -1079,7 +1103,7 @@
       "url": "https://x.com/i/status/2118820121162711409",
       "published_at": "2026-11-06T21:37:37Z",
       "series": "other",
-      "views": 3656,
+      "views": 3658,
       "likes": 28,
       "comments": 5,
       "shares": 2
@@ -1091,7 +1115,7 @@
       "url": "https://x.com/i/status/2118818963333247027",
       "published_at": "2026-11-06T21:33:01Z",
       "series": "other",
-      "views": 3513,
+      "views": 3515,
       "likes": 20,
       "comments": 2,
       "shares": 2
@@ -1103,7 +1127,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7705069861919100183",
       "published_at": "2026-11-06T14:46:24Z",
       "series": "other",
-      "views": 1868,
+      "views": 1870,
       "likes": 5,
       "comments": 0,
       "shares": 0
@@ -1115,7 +1139,7 @@
       "url": "https://x.com/i/status/2118714575436632450",
       "published_at": "2026-11-06T14:38:13Z",
       "series": "other",
-      "views": 184221,
+      "views": 184232,
       "likes": 75,
       "comments": 6,
       "shares": 17
@@ -1127,7 +1151,7 @@
       "url": "https://x.com/i/status/2118659248309579914",
       "published_at": "2026-11-06T10:58:22Z",
       "series": "other",
-      "views": 3161,
+      "views": 3162,
       "likes": 10,
       "comments": 1,
       "shares": 0
@@ -1139,7 +1163,7 @@
       "url": "https://www.youtube.com/shorts/k3Pa-nOuYRQ",
       "published_at": "2026-11-06T00:17:17Z",
       "series": "office",
-      "views": 224,
+      "views": 234,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1151,7 +1175,7 @@
       "url": "https://www.youtube.com/shorts/eRnE9W3UprY",
       "published_at": "2026-11-06T00:15:48Z",
       "series": "other",
-      "views": 145,
+      "views": 151,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -1163,7 +1187,7 @@
       "url": "https://www.youtube.com/shorts/0YmqDm7eu5g",
       "published_at": "2026-11-06T00:14:16Z",
       "series": "other",
-      "views": 128,
+      "views": 133,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1175,7 +1199,7 @@
       "url": "https://www.youtube.com/shorts/noPmgKrLMmQ",
       "published_at": "2026-11-06T00:08:16Z",
       "series": "office",
-      "views": 214,
+      "views": 229,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1187,7 +1211,7 @@
       "url": "https://www.youtube.com/shorts/ZtZ_maVL6og",
       "published_at": "2026-11-06T00:05:56Z",
       "series": "office",
-      "views": 110,
+      "views": 117,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1199,7 +1223,7 @@
       "url": "https://www.youtube.com/shorts/_3xmRoBa8dA",
       "published_at": "2026-11-06T00:04:17Z",
       "series": "office",
-      "views": 68,
+      "views": 75,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -1211,7 +1235,7 @@
       "url": "https://www.youtube.com/shorts/ffXn-y5n_2M",
       "published_at": "2026-11-06T00:02:59Z",
       "series": "other",
-      "views": 124,
+      "views": 139,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -1223,7 +1247,7 @@
       "url": "https://www.youtube.com/shorts/-ph-bSMu4Q0",
       "published_at": "2026-11-06T00:02:02Z",
       "series": "office",
-      "views": 54,
+      "views": 57,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1247,7 +1271,7 @@
       "url": "https://www.youtube.com/shorts/yFPIywXsvAI",
       "published_at": "2026-11-05T23:58:17Z",
       "series": "office",
-      "views": 63,
+      "views": 69,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1259,7 +1283,7 @@
       "url": "https://www.youtube.com/shorts/E7Bog6zH1is",
       "published_at": "2026-11-05T23:57:23Z",
       "series": "other",
-      "views": 58,
+      "views": 64,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1271,7 +1295,7 @@
       "url": "https://www.youtube.com/shorts/jrsSyvmBf8g",
       "published_at": "2026-11-05T23:56:17Z",
       "series": "other",
-      "views": 42,
+      "views": 47,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -1283,7 +1307,7 @@
       "url": "https://www.youtube.com/shorts/z3ACYu4kpNo",
       "published_at": "2026-11-05T23:52:11Z",
       "series": "office",
-      "views": 56,
+      "views": 62,
       "likes": 0,
       "comments": null,
       "shares": null
@@ -1319,7 +1343,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7704838503800114454",
       "published_at": "2026-11-05T23:48:40Z",
       "series": "office",
-      "views": 1339,
+      "views": 1340,
       "likes": 16,
       "comments": 0,
       "shares": 4
@@ -1343,7 +1367,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7704838203068517654",
       "published_at": "2026-11-05T23:47:27Z",
       "series": "office",
-      "views": 809,
+      "views": 810,
       "likes": 7,
       "comments": 1,
       "shares": 0
@@ -1355,7 +1379,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7704838047526817046",
       "published_at": "2026-11-05T23:46:49Z",
       "series": "office",
-      "views": 683,
+      "views": 686,
       "likes": 3,
       "comments": 1,
       "shares": 2
@@ -1367,7 +1391,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7704837678851984642",
       "published_at": "2026-11-05T23:45:26Z",
       "series": "office",
-      "views": 559,
+      "views": 561,
       "likes": 4,
       "comments": 0,
       "shares": 0
@@ -1523,7 +1547,7 @@
       "url": "https://x.com/i/status/2118435029843837378",
       "published_at": "2026-11-05T20:07:24Z",
       "series": "office",
-      "views": 107264,
+      "views": 107267,
       "likes": 100,
       "comments": 4,
       "shares": 13
@@ -1547,7 +1571,7 @@
       "url": "https://x.com/i/status/2118365192027283643",
       "published_at": "2026-11-05T15:29:53Z",
       "series": "other",
-      "views": 3298,
+      "views": 3299,
       "likes": 16,
       "comments": 3,
       "shares": 0
@@ -1559,7 +1583,7 @@
       "url": "https://x.com/i/status/2118358748808794163",
       "published_at": "2026-11-05T15:04:17Z",
       "series": "other",
-      "views": 3069,
+      "views": 3070,
       "likes": 13,
       "comments": 2,
       "shares": 2
@@ -1583,7 +1607,7 @@
       "url": "https://www.youtube.com/shorts/P09UT_O8C6A",
       "published_at": "2026-11-05T00:00:00Z",
       "series": "office",
-      "views": 286,
+      "views": 306,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -1595,7 +1619,7 @@
       "url": "https://www.youtube.com/shorts/OvZzXtwm2zY",
       "published_at": "2026-11-05T00:00:00Z",
       "series": "office",
-      "views": 159,
+      "views": 162,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -1607,7 +1631,7 @@
       "url": "https://www.youtube.com/shorts/YZFHNtB9xkQ",
       "published_at": "2026-11-05T00:00:00Z",
       "series": "other",
-      "views": 67,
+      "views": 69,
       "likes": null,
       "comments": null,
       "shares": null
@@ -1619,7 +1643,7 @@
       "url": "https://www.youtube.com/shorts/2y8OkyJ-KX8",
       "published_at": "2026-11-05T00:00:00Z",
       "series": "office",
-      "views": 39,
+      "views": 44,
       "likes": null,
       "comments": null,
       "shares": null
@@ -1643,7 +1667,7 @@
       "url": "https://x.com/i/status/2118043794025136503",
       "published_at": "2026-11-04T18:12:46Z",
       "series": "other",
-      "views": 43780,
+      "views": 43781,
       "likes": 21,
       "comments": 3,
       "shares": 4
@@ -1655,7 +1679,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7704272339092983062",
       "published_at": "2026-11-04T11:11:34Z",
       "series": "office",
-      "views": 824,
+      "views": 825,
       "likes": 55,
       "comments": 0,
       "shares": 0
@@ -1667,7 +1691,7 @@
       "url": "https://x.com/i/status/2117937334536556744",
       "published_at": "2026-11-04T11:09:44Z",
       "series": "office",
-      "views": 41535,
+      "views": 41573,
       "likes": 298,
       "comments": 10,
       "shares": 39
@@ -1679,7 +1703,7 @@
       "url": "https://www.youtube.com/watch?v=pi8lxQRNKhw",
       "published_at": "2026-11-04T00:00:00Z",
       "series": "office",
-      "views": 4800,
+      "views": 5200,
       "likes": 53,
       "comments": null,
       "shares": null
@@ -1691,7 +1715,7 @@
       "url": "https://www.youtube.com/watch?v=LEyyT12_3dU",
       "published_at": "2026-11-03T22:32:00Z",
       "series": "office",
-      "views": 1000,
+      "views": 1100,
       "likes": 32,
       "comments": null,
       "shares": null
@@ -1715,7 +1739,7 @@
       "url": "https://x.com/i/status/2117692295948402853",
       "published_at": "2026-11-03T18:56:02Z",
       "series": "other",
-      "views": 4636,
+      "views": 4641,
       "likes": 22,
       "comments": 3,
       "shares": 1
@@ -1727,7 +1751,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7703944230988795158",
       "published_at": "2026-11-03T13:58:23Z",
       "series": "office",
-      "views": 857,
+      "views": 863,
       "likes": 51,
       "comments": 0,
       "shares": 1
@@ -1739,7 +1763,7 @@
       "url": "https://x.com/i/status/2117616831493972108",
       "published_at": "2026-11-03T13:56:10Z",
       "series": "office",
-      "views": 252969,
+      "views": 253162,
       "likes": 3749,
       "comments": 96,
       "shares": 449
@@ -1751,7 +1775,7 @@
       "url": "https://x.com/i/status/2117546680413208957",
       "published_at": "2026-11-03T09:17:25Z",
       "series": "other",
-      "views": 2321,
+      "views": 2322,
       "likes": 15,
       "comments": 3,
       "shares": 1
@@ -1763,7 +1787,7 @@
       "url": "https://www.youtube.com/watch?v=_WQt7VU62HE",
       "published_at": "2026-11-03T00:24:57Z",
       "series": "other",
-      "views": 35,
+      "views": 37,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -1775,7 +1799,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7703732026620251414",
       "published_at": "2026-11-03T00:14:59Z",
       "series": "other",
-      "views": 1201,
+      "views": 1208,
       "likes": 27,
       "comments": 0,
       "shares": 0
@@ -1787,7 +1811,7 @@
       "url": "https://x.com/i/status/2117357430304600574",
       "published_at": "2026-11-02T20:45:24Z",
       "series": "other",
-      "views": 1999,
+      "views": 2000,
       "likes": 7,
       "comments": 3,
       "shares": 0
@@ -1847,7 +1871,7 @@
       "url": "https://x.com/i/status/2117223656178749613",
       "published_at": "2026-11-02T11:53:50Z",
       "series": "other",
-      "views": 3018,
+      "views": 3019,
       "likes": 20,
       "comments": 4,
       "shares": 6
@@ -1871,7 +1895,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7703358919749553430",
       "published_at": "2026-11-02T00:07:11Z",
       "series": "other",
-      "views": 689,
+      "views": 690,
       "likes": 15,
       "comments": 0,
       "shares": 0
@@ -1883,7 +1907,7 @@
       "url": "https://x.com/i/status/2117044250433261664",
       "published_at": "2026-11-02T00:00:56Z",
       "series": "other",
-      "views": 327005,
+      "views": 327006,
       "likes": 172,
       "comments": 10,
       "shares": 27
@@ -1895,7 +1919,7 @@
       "url": "https://www.youtube.com/watch?v=l5MgL9QDSk8",
       "published_at": "2026-11-02T00:00:00Z",
       "series": "other",
-      "views": 1300,
+      "views": 1400,
       "likes": 17,
       "comments": null,
       "shares": null
@@ -2063,7 +2087,7 @@
       "url": "https://www.youtube.com/watch?v=tOZnfzdg6F8",
       "published_at": "2026-10-30T03:16:09Z",
       "series": "other",
-      "views": 139,
+      "views": 140,
       "likes": 5,
       "comments": null,
       "shares": null
@@ -2075,8 +2099,8 @@
       "url": "https://x.com/i/status/2116005087067635811",
       "published_at": "2026-10-30T03:11:40Z",
       "series": "other",
-      "views": 24085,
-      "likes": 184,
+      "views": 24086,
+      "likes": 183,
       "comments": 17,
       "shares": 34
     },
@@ -2088,7 +2112,7 @@
       "published_at": "2026-10-30T00:06:10Z",
       "series": "office",
       "views": 2599,
-      "likes": 69,
+      "likes": 68,
       "comments": 2,
       "shares": 4
     },
@@ -2135,7 +2159,7 @@
       "url": "https://www.youtube.com/watch?v=iyjFsRZQfOw",
       "published_at": "2026-10-29T00:00:00Z",
       "series": "office",
-      "views": 115,
+      "views": 116,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2171,7 +2195,7 @@
       "url": "https://x.com/i/status/2115487913182220499",
       "published_at": "2026-10-28T16:56:37Z",
       "series": "office",
-      "views": 24646,
+      "views": 24648,
       "likes": 165,
       "comments": 9,
       "shares": 33
@@ -2207,7 +2231,7 @@
       "url": "https://x.com/i/status/2115084883643011248",
       "published_at": "2026-10-27T14:15:07Z",
       "series": "other",
-      "views": 1147,
+      "views": 1148,
       "likes": 8,
       "comments": 2,
       "shares": 0
@@ -2219,7 +2243,7 @@
       "url": "https://www.youtube.com/watch?v=LhNtHzuPrDs",
       "published_at": "2026-10-27T12:58:15Z",
       "series": "other",
-      "views": 192,
+      "views": 196,
       "likes": 12,
       "comments": null,
       "shares": null
@@ -2231,7 +2255,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7701330511125368086",
       "published_at": "2026-10-27T12:55:49Z",
       "series": "other",
-      "views": 311,
+      "views": 312,
       "likes": 5,
       "comments": 0,
       "shares": 0
@@ -2243,7 +2267,7 @@
       "url": "https://x.com/i/status/2115064836258222338",
       "published_at": "2026-10-27T12:55:27Z",
       "series": "other",
-      "views": 165474,
+      "views": 165491,
       "likes": 1948,
       "comments": 137,
       "shares": 564
@@ -2339,7 +2363,7 @@
       "url": "https://x.com/i/status/2114289867488141345",
       "published_at": "2026-10-25T09:36:00Z",
       "series": "office",
-      "views": 105659,
+      "views": 105661,
       "likes": 511,
       "comments": 21,
       "shares": 72
@@ -2351,7 +2375,7 @@
       "url": "https://www.youtube.com/watch?v=L5OmgvG-BTs",
       "published_at": "2026-10-25T00:00:00Z",
       "series": "other",
-      "views": 12,
+      "views": 14,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2363,7 +2387,7 @@
       "url": "https://www.youtube.com/watch?v=TIl0apjNmkY",
       "published_at": "2026-10-25T00:00:00Z",
       "series": "office",
-      "views": 60,
+      "views": 64,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2375,7 +2399,7 @@
       "url": "https://www.youtube.com/watch?v=Fe4Eh_sTiAE",
       "published_at": "2026-10-25T00:00:00Z",
       "series": "office",
-      "views": 67,
+      "views": 70,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2579,7 +2603,7 @@
       "url": "https://x.com/i/status/2112857602564542754",
       "published_at": "2026-10-21T10:44:42Z",
       "series": "office",
-      "views": 80291,
+      "views": 80293,
       "likes": 500,
       "comments": 24,
       "shares": 52
@@ -2591,7 +2615,7 @@
       "url": "https://x.com/i/status/2112822038599483766",
       "published_at": "2026-10-21T08:23:22Z",
       "series": "office",
-      "views": 207526,
+      "views": 207528,
       "likes": 83,
       "comments": 7,
       "shares": 19
@@ -2615,7 +2639,7 @@
       "url": "https://www.youtube.com/watch?v=DNNcaS8Rfy0",
       "published_at": "2026-10-21T00:00:00Z",
       "series": "other",
-      "views": 19,
+      "views": 21,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2663,7 +2687,7 @@
       "url": "https://www.youtube.com/watch?v=-GkZD4_0k3o",
       "published_at": "2026-10-20T13:36:47Z",
       "series": "office",
-      "views": 5300,
+      "views": 5500,
       "likes": 35,
       "comments": null,
       "shares": null
@@ -2687,7 +2711,7 @@
       "url": "https://www.youtube.com/watch?v=VgAB0BxlI50",
       "published_at": "2026-10-20T12:39:20Z",
       "series": "office",
-      "views": 520,
+      "views": 525,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -2711,7 +2735,7 @@
       "url": "https://www.youtube.com/watch?v=tLy5ggxkChw",
       "published_at": "2026-10-20T12:30:27Z",
       "series": "office",
-      "views": 263,
+      "views": 267,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -2735,7 +2759,7 @@
       "url": "https://www.youtube.com/watch?v=sxub8URY8uI",
       "published_at": "2026-10-20T12:18:44Z",
       "series": "office",
-      "views": 36,
+      "views": 38,
       "likes": 1,
       "comments": null,
       "shares": null
@@ -2747,7 +2771,7 @@
       "url": "https://www.youtube.com/watch?v=TS9ksd03rwo",
       "published_at": "2026-10-20T12:18:27Z",
       "series": "office",
-      "views": 50,
+      "views": 51,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2759,7 +2783,7 @@
       "url": "https://www.youtube.com/watch?v=lSypoKhA7ig",
       "published_at": "2026-10-20T12:17:24Z",
       "series": "office",
-      "views": 72,
+      "views": 76,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2771,7 +2795,7 @@
       "url": "https://www.youtube.com/watch?v=dnsajQD5djY",
       "published_at": "2026-10-20T12:16:38Z",
       "series": "office",
-      "views": 610,
+      "views": 614,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2783,7 +2807,7 @@
       "url": "https://www.youtube.com/watch?v=fJp0iIcIc24",
       "published_at": "2026-10-20T12:15:30Z",
       "series": "office",
-      "views": 211,
+      "views": 216,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -2807,7 +2831,7 @@
       "url": "https://www.youtube.com/watch?v=hPNvKEtrjn8",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 3000,
+      "views": 3100,
       "likes": 33,
       "comments": null,
       "shares": null
@@ -2819,7 +2843,7 @@
       "url": "https://www.youtube.com/watch?v=i1lS6awjfMI",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 916,
+      "views": 929,
       "likes": 9,
       "comments": null,
       "shares": null
@@ -2831,7 +2855,7 @@
       "url": "https://www.youtube.com/watch?v=xC571qsTw44",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 4500,
+      "views": 5400,
       "likes": 55,
       "comments": null,
       "shares": null
@@ -2855,7 +2879,7 @@
       "url": "https://www.youtube.com/watch?v=0ryP1uiCkBw",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 74,
+      "views": 75,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -2867,7 +2891,7 @@
       "url": "https://www.youtube.com/watch?v=fqX6Gwr0_UI",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 433,
+      "views": 440,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2879,7 +2903,7 @@
       "url": "https://www.youtube.com/watch?v=3x5lfd_Ayco",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 687,
+      "views": 698,
       "likes": 4,
       "comments": null,
       "shares": null
@@ -2891,7 +2915,7 @@
       "url": "https://www.youtube.com/watch?v=E03k0hnfIXE",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 83,
+      "views": 84,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2903,7 +2927,7 @@
       "url": "https://www.youtube.com/watch?v=VFUnlIK6F34",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 985,
+      "views": 988,
       "likes": 4,
       "comments": null,
       "shares": null
@@ -2915,7 +2939,7 @@
       "url": "https://www.youtube.com/watch?v=_z90gCjCepA",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 55,
+      "views": 57,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2927,7 +2951,7 @@
       "url": "https://www.youtube.com/watch?v=fAljNUlF-Wg",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 53,
+      "views": 55,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -2939,7 +2963,7 @@
       "url": "https://www.youtube.com/watch?v=9FIpGkLbCRA",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 33,
+      "views": 35,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2951,7 +2975,7 @@
       "url": "https://www.youtube.com/watch?v=BRmDSbj9cPg",
       "published_at": "2026-10-20T00:00:00Z",
       "series": "office",
-      "views": 80,
+      "views": 83,
       "likes": null,
       "comments": null,
       "shares": null
@@ -2975,7 +2999,7 @@
       "url": "https://www.youtube.com/watch?v=LA-zanwdDhw",
       "published_at": "2026-10-19T20:27:30Z",
       "series": "other",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": null,
       "shares": null
@@ -3161,18 +3185,6 @@
       "shares": null
     },
     {
-      "platform": "x",
-      "id": "2111762703324758155",
-      "title": "My AI generated explainer videos seem to be far left https://t.co/M1AHCRN9P0",
-      "url": "https://x.com/i/status/2111762703324758155",
-      "published_at": "2026-10-18T10:13:57Z",
-      "series": "other",
-      "views": 1281,
-      "likes": 11,
-      "comments": 4,
-      "shares": 1
-    },
-    {
       "platform": "tiktok",
       "id": "7697645482998254870",
       "title": "Bitcoin Aurelius Every woman wants him, every bitcoiner wants to be him. George interacts with a bitcoin legend on twit…",
@@ -3195,18 +3207,6 @@
       "likes": 3,
       "comments": 1,
       "shares": 1
-    },
-    {
-      "platform": "x",
-      "id": "2111443365564707066",
-      "title": "Someone suggested I put my videos on TikTok, so I made an account. Currently entertaining an audience of zero 😂 If you’…",
-      "url": "https://x.com/i/status/2111443365564707066",
-      "published_at": "2026-10-17T13:05:01Z",
-      "series": "other",
-      "views": 1739,
-      "likes": 39,
-      "comments": 2,
-      "shares": 5
     },
     {
       "platform": "tiktok",
@@ -3387,18 +3387,6 @@
       "likes": 7,
       "comments": 0,
       "shares": 0
-    },
-    {
-      "platform": "x",
-      "id": "2111101105845199261",
-      "title": "𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗦𝗲𝗶𝗻𝗳𝗲𝗹𝗱: 𝗧𝗵𝗲 𝗗𝗼𝘂𝗯𝗹𝗲 𝗦𝗽𝗲𝗻𝗱 George likes his Bitcoin friends but he also likes his non bitcoiner friends, can he…",
-      "url": "https://x.com/i/status/2111101105845199261",
-      "published_at": "2026-10-16T14:25:00Z",
-      "series": "other",
-      "views": 130609,
-      "likes": 1359,
-      "comments": 56,
-      "shares": 235
     },
     {
       "platform": "tiktok",
@@ -3899,7 +3887,7 @@
       "url": "https://www.youtube.com/shorts/WGp0R1ZY5xc",
       "published_at": "2018-12-03T18:38:27Z",
       "series": "other",
-      "views": 117,
+      "views": 119,
       "likes": 2,
       "comments": null,
       "shares": null
@@ -4139,7 +4127,7 @@
       "url": "https://www.youtube.com/shorts/J6Lj1rwE0c8",
       "published_at": "2017-09-15T00:00:00Z",
       "series": "other",
-      "views": 106,
+      "views": 110,
       "likes": 3,
       "comments": null,
       "shares": null
@@ -4221,7 +4209,7 @@
     {
       "date": "2026-11-17",
       "platform": "x",
-      "followers": 19468,
+      "followers": 19474,
       "views": null
     },
     {
@@ -4233,13 +4221,13 @@
     {
       "date": "2026-11-17",
       "platform": "youtube",
-      "followers": 950,
+      "followers": 1000,
       "views": null
     },
     {
       "date": "2026-11-17",
       "platform": "tiktok",
-      "followers": 2799,
+      "followers": 2813,
       "views": null
     }
   ]
