@@ -4,7 +4,9 @@ Static one-page dashboard for how posts are doing on X, Instagram, YouTube and T
 
 The live page is [https://mandelmonkey.github.io/mandelduck-dashboard/](https://mandelmonkey.github.io/mandelduck-dashboard/). It is plain HTML, CSS and JavaScript served from the repository root. There is no build step. Chart.js is loaded from a CDN.
 
-The copy of `data/stats.json` in this repo is **example data**. `example` is `true`, and the page shows a banner: “Example data – real stats not connected yet”. Those numbers are placeholders so the layout can be reviewed. They are not studio performance.
+`data/stats.json` is a real snapshot when `"example"` is `false`. The page only shows the “Example data” banner when `"example"` is `true`.
+
+Counts that are not publicly available, and 7-day or 28-day figures that need more daily snapshots, are stored as `null`. The page shows an em dash or “not available yet” for those fields. Never substitute a guess or a rounded display value (for example Instagram’s “5K followers”).
 
 ## Update the numbers
 
@@ -56,10 +58,10 @@ Keys, in the order the page lists them: `x`, `instagram`, `youtube`, `tiktok`.
 
 | Field | Type | Meaning |
 | --- | --- | --- |
-| `followers` | non-negative integer | Follower or subscriber count at `updated_at`. |
-| `followers_change_7d` | integer | Change in followers over the 7 days ending at `updated_at`. Negative means a drop. |
-| `views_28d` | non-negative integer | Views on that platform over the 28 days ending at `updated_at`. |
-| `engagement_28d` | non-negative integer | Engagements (likes, comments and shares combined) on that platform over those same 28 days. Account-level figure, not a sum the page computes from `posts`. |
+| `followers` | non-negative integer or `null` | Follower or subscriber count at `updated_at`. `null` if a public exact count is not available. |
+| `followers_change_7d` | integer or `null` | Change in followers over the 7 days ending at `updated_at`. Negative means a drop. `null` until a snapshot from 7 days earlier exists. |
+| `views_28d` | non-negative integer or `null` | Views on that platform over the 28 days ending at `updated_at`. `null` until 28 daily snapshots exist. |
+| `engagement_28d` | non-negative integer or `null` | Engagements (likes, comments and shares combined) on that platform over those same 28 days. Account-level figure, not a sum the page computes from `posts`. `null` when a public 28-day total is not available. |
 
 ### `posts`
 
@@ -71,10 +73,10 @@ Keys, in the order the page lists them: `x`, `instagram`, `youtube`, `tiktok`.
 | `url` | string | `http://` or `https://` link. The title opens this URL. |
 | `published_at` | string | ISO-8601 datetime the post was published. |
 | `series` | string | `my-wife-is-a-mystery`, `history`, `office` or `other`. |
-| `views` | non-negative integer | Views counted for the post. |
-| `likes` | non-negative integer | Likes counted for the post. |
-| `comments` | non-negative integer | Comments counted for the post. |
-| `shares` | non-negative integer | Shares counted for the post. |
+| `views` | non-negative integer or `null` | Views counted for the post. |
+| `likes` | non-negative integer or `null` | Likes counted for the post. |
+| `comments` | non-negative integer or `null` | Comments counted for the post. |
+| `shares` | non-negative integer or `null` | Shares counted for the post. |
 
 ### `history`
 
@@ -84,8 +86,8 @@ Each item is one platform’s snapshot for one calendar date. A date plus platfo
 | --- | --- | --- |
 | `date` | string | Calendar date `YYYY-MM-DD`. |
 | `platform` | string | `x`, `instagram`, `youtube` or `tiktok`. |
-| `followers` | non-negative integer | Follower count recorded for that date. |
-| `views` | non-negative integer | Views on that date for that platform. This is the day’s views, not a running total. |
+| `followers` | non-negative integer or `null` | Follower count recorded for that date. |
+| `views` | non-negative integer or `null` | Views on that date for that platform. This is the day’s views, not a running total. |
 
 ### Example shape
 

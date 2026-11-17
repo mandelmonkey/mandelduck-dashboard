@@ -85,12 +85,14 @@ def check_date(report: Report, value: object, path: str) -> None:
         report.add(path, "expected a YYYY-MM-DD date")
 
 
-def check_count(report: Report, obj: dict, key: str, path: str) -> None:
+def check_count(report: Report, obj: dict, key: str, path: str, allow_null: bool = True) -> None:
     if key not in obj:
         return
     value = obj[key]
+    if allow_null and value is None:
+        return
     if not is_int(value) or value < 0:
-        report.add(f"{path}.{key}", "expected a non-negative integer")
+        report.add(f"{path}.{key}", "expected a non-negative integer or null")
 
 
 def check_platforms(report: Report, platforms: object) -> None:
@@ -116,8 +118,10 @@ def check_platforms(report: Report, platforms: object) -> None:
         if "followers_change_7d" not in block:
             continue
         change = block["followers_change_7d"]
+        if change is None:
+            continue
         if not is_int(change):
-            report.add(f"{path}.followers_change_7d", "expected an integer")
+            report.add(f"{path}.followers_change_7d", "expected an integer or null")
 
 
 def check_posts(report: Report, posts: object) -> None:

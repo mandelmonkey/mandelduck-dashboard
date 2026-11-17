@@ -33,10 +33,12 @@ const charts = { followers: null, views: null };
 let controlsBound = false;
 
 function formatNumber(value) {
+  if (value == null || Number.isNaN(value)) return "—";
   return new Intl.NumberFormat("en-GB").format(value);
 }
 
 function formatSigned(value) {
+  if (value == null || Number.isNaN(value)) return "—";
   const amount = formatNumber(Math.abs(value));
   if (value > 0) return `+${amount}`;
   if (value < 0) return `−${amount}`;
@@ -67,6 +69,7 @@ function formatLondon(iso, withTime) {
 
 function engagementRate(post) {
   if (!post.views) return null;
+  if (post.likes == null || post.comments == null || post.shares == null) return null;
   return (post.likes + post.comments + post.shares) / post.views;
 }
 
@@ -106,11 +109,21 @@ function renderCards(platforms) {
     const followers = el("p", "followers", formatNumber(block.followers));
     followers.append(el("span", null, "followers"));
 
-    const direction = block.followers_change_7d > 0 ? "up" : block.followers_change_7d < 0 ? "down" : "flat";
-    const change = el("p", `change ${direction}`, `${formatSigned(block.followers_change_7d)} in 7 days`);
+    const changeValue = block.followers_change_7d;
+    const direction = changeValue == null ? "flat" : changeValue > 0 ? "up" : changeValue < 0 ? "down" : "flat";
+    const change = el(
+      "p",
+      `change ${direction}`,
+      changeValue == null ? "7-day change not available yet" : `${formatSigned(changeValue)} in 7 days`
+    );
 
-    const views = el("p", "views-line", `${formatNumber(block.views_28d)} views`);
-    views.append(el("span", null, " in 28 days"));
+    const views = el("p", "views-line", block.views_28d == null ? "—" : formatNumber(block.views_28d));
+    if (block.views_28d == null) {
+      views.append(el("span", null, " 28-day views not available yet"));
+    } else {
+      views.append(el("span", null, " views"));
+      views.append(el("span", null, " in 28 days"));
+    }
 
     card.append(top, followers, change, views);
     root.append(card);
