@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T14:20:18Z",
+  "updated_at": "2026-11-24T14:26:26Z",
   "example": false,
   "platforms": {
     "x": {
@@ -29,16 +29,28 @@
   },
   "posts": [
     {
+      "platform": "youtube",
+      "id": "7V4hRA5vK4U",
+      "title": "Seinfeld AI: Jerry Seinfeld dates a girl who plays GTA 6",
+      "url": "https://www.youtube.com/watch?v=7V4hRA5vK4U",
+      "published_at": "2026-11-24T14:25:00Z",
+      "series": "office",
+      "views": 0,
+      "likes": null,
+      "comments": null,
+      "shares": null
+    },
+    {
       "platform": "x",
       "id": "2125228312200917069",
       "title": "Seinfeld AI: Jerry Seinfeld dates a girl who plays GTA 6 Like, Subscribe and repost for more AI Comedy Videos! This is…",
       "url": "https://x.com/i/status/2125228312200917069",
       "published_at": "2026-11-24T14:01:29Z",
       "series": "office",
-      "views": 733,
-      "likes": 17,
+      "views": 1122,
+      "likes": 28,
       "comments": 1,
-      "shares": 3
+      "shares": 5
     },
     {
       "platform": "x",
@@ -47,7 +59,7 @@
       "url": "https://x.com/i/status/2125174843486470374",
       "published_at": "2026-11-24T10:29:01Z",
       "series": "other",
-      "views": 631,
+      "views": 634,
       "likes": 5,
       "comments": 0,
       "shares": 0
@@ -59,7 +71,7 @@
       "url": "https://x.com/i/status/2124991350173045193",
       "published_at": "2026-11-23T22:19:52Z",
       "series": "other",
-      "views": 2449,
+      "views": 2453,
       "likes": 38,
       "comments": 3,
       "shares": 4
@@ -71,7 +83,7 @@
       "url": "https://x.com/i/status/2124980970621419745",
       "published_at": "2026-11-23T21:38:38Z",
       "series": "other",
-      "views": 3317,
+      "views": 3320,
       "likes": 27,
       "comments": 0,
       "shares": 4
@@ -83,7 +95,7 @@
       "url": "https://x.com/i/status/2124933779194356006",
       "published_at": "2026-11-23T18:31:06Z",
       "series": "other",
-      "views": 823,
+      "views": 824,
       "likes": 1,
       "comments": 0,
       "shares": 0
@@ -96,9 +108,9 @@
       "published_at": "2026-11-23T16:19:59Z",
       "series": "other",
       "views": 12400,
-      "likes": 368,
+      "likes": 372,
       "comments": 8,
-      "shares": 194
+      "shares": 195
     },
     {
       "platform": "x",
@@ -107,10 +119,10 @@
       "url": "https://x.com/i/status/2124896500408889586",
       "published_at": "2026-11-23T16:02:59Z",
       "series": "other",
-      "views": 1762457,
-      "likes": 3396,
-      "comments": 70,
-      "shares": 582
+      "views": 1764674,
+      "likes": 3398,
+      "comments": 71,
+      "shares": 583
     },
     {
       "platform": "tiktok",
@@ -131,7 +143,7 @@
       "url": "https://x.com/i/status/2124876240075227274",
       "published_at": "2026-11-23T14:42:28Z",
       "series": "other",
-      "views": 1920,
+      "views": 1921,
       "likes": 6,
       "comments": 0,
       "shares": 0
@@ -143,7 +155,7 @@
       "url": "https://x.com/i/status/2124874765844566141",
       "published_at": "2026-11-23T14:36:37Z",
       "series": "other",
-      "views": 959442,
+      "views": 959528,
       "likes": 2812,
       "comments": 26,
       "shares": 133
@@ -155,7 +167,7 @@
       "url": "https://x.com/i/status/2124798075784884699",
       "published_at": "2026-11-23T09:31:52Z",
       "series": "other",
-      "views": 3247,
+      "views": 3249,
       "likes": 17,
       "comments": 2,
       "shares": 0
@@ -467,7 +479,7 @@
       "url": "https://x.com/i/status/2122993319911264570",
       "published_at": "2026-11-18T10:00:25Z",
       "series": "history",
-      "views": 207482,
+      "views": 207483,
       "likes": 420,
       "comments": 39,
       "shares": 42
@@ -695,7 +707,7 @@
       "url": "https://x.com/i/status/2122700783850316068",
       "published_at": "2026-11-17T14:37:59Z",
       "series": "my-wife-is-a-mystery",
-      "views": 461811,
+      "views": 461813,
       "likes": 127,
       "comments": 7,
       "shares": 7
@@ -839,7 +851,7 @@
       "url": "https://x.com/i/status/2122629913052143662",
       "published_at": "2026-11-17T09:56:22Z",
       "series": "other",
-      "views": 1280465,
+      "views": 1280474,
       "likes": 206,
       "comments": 15,
       "shares": 17
@@ -911,7 +923,7 @@
       "url": "https://x.com/i/status/2122493664500822276",
       "published_at": "2026-11-17T00:54:58Z",
       "series": "office",
-      "views": 62826,
+      "views": 62827,
       "likes": 592,
       "comments": 29,
       "shares": 35
@@ -935,7 +947,7 @@
       "url": "https://x.com/i/status/2122475502900297786",
       "published_at": "2026-11-16T23:42:48Z",
       "series": "other",
-      "views": 75167,
+      "views": 75168,
       "likes": 180,
       "comments": 58,
       "shares": 12
@@ -1187,7 +1199,7 @@
       "url": "https://x.com/i/status/2121380864424657361",
       "published_at": "2026-11-13T23:13:06Z",
       "series": "office",
-      "views": 1147238,
+      "views": 1147240,
       "likes": 9377,
       "comments": 102,
       "shares": 1019
@@ -1259,7 +1271,7 @@
       "url": "https://x.com/i/status/2121201433554890770",
       "published_at": "2026-11-13T11:20:06Z",
       "series": "office",
-      "views": 3615431,
+      "views": 3615439,
       "likes": 32143,
       "comments": 347,
       "shares": 4156
@@ -1355,7 +1367,7 @@
       "url": "https://x.com/i/status/2120914062473155009",
       "published_at": "2026-11-12T16:18:11Z",
       "series": "office",
-      "views": 8073898,
+      "views": 8073911,
       "likes": 14154,
       "comments": 318,
       "shares": 1942
@@ -1523,7 +1535,7 @@
       "url": "https://x.com/i/status/2119914698678165720",
       "published_at": "2026-11-09T22:07:04Z",
       "series": "office",
-      "views": 3025825,
+      "views": 3025830,
       "likes": 6420,
       "comments": 201,
       "shares": 784
@@ -1571,7 +1583,7 @@
       "url": "https://x.com/i/status/2119795235475599527",
       "published_at": "2026-11-09T14:12:22Z",
       "series": "office",
-      "views": 439105,
+      "views": 439106,
       "likes": 3374,
       "comments": 101,
       "shares": 426
@@ -1595,7 +1607,7 @@
       "url": "https://x.com/i/status/2119746370844385492",
       "published_at": "2026-11-09T10:58:12Z",
       "series": "other",
-      "views": 11789,
+      "views": 11790,
       "likes": 54,
       "comments": 10,
       "shares": 0
@@ -2303,7 +2315,7 @@
       "url": "https://x.com/i/status/2117937334536556744",
       "published_at": "2026-11-04T11:09:44Z",
       "series": "office",
-      "views": 41806,
+      "views": 41807,
       "likes": 299,
       "comments": 10,
       "shares": 39
@@ -2375,7 +2387,7 @@
       "url": "https://x.com/i/status/2117616831493972108",
       "published_at": "2026-11-03T13:56:10Z",
       "series": "office",
-      "views": 255075,
+      "views": 255076,
       "likes": 3749,
       "comments": 97,
       "shares": 449
@@ -2411,7 +2423,7 @@
       "url": "https://www.tiktok.com/@mandelduck/video/7703732026620251414",
       "published_at": "2026-11-03T00:14:59Z",
       "series": "other",
-      "views": 1441,
+      "views": 1442,
       "likes": 34,
       "comments": 1,
       "shares": 0
@@ -2943,6 +2955,18 @@
       "likes": 3,
       "comments": 0,
       "shares": 0
+    },
+    {
+      "platform": "x",
+      "id": "2114419175590662412",
+      "title": "Looking foward to talking about ai bitcoin seinfeld on the @UKBTCSpotlight show tomorrow! https://t.co/2XYYUbScfx",
+      "url": "https://x.com/i/status/2114419175590662412",
+      "published_at": "2026-10-25T18:09:50Z",
+      "series": "office",
+      "views": 1081,
+      "likes": 9,
+      "comments": 0,
+      "shares": 1
     },
     {
       "platform": "youtube",
@@ -4696,7 +4720,7 @@
       "date": "2026-11-24",
       "platform": "tiktok",
       "followers": 2881,
-      "views": 14041
+      "views": 14042
     }
   ]
 }
